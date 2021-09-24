@@ -1,2 +1,2 @@
 # Capstone
-Capstone project
+Capstone project UiT
